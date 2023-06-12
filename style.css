@@ -1,0 +1,37 @@
+*{
+    background-color: purple;
+}
+#logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    margin-top: -70px;
+    margin-bottom: 50px;
+    color: gold;
+    background-color: green;
+}
+header{
+    background-color: green;
+}
+main{
+    text-align: center;
+}
+h1{
+    color: gold;
+}
+#btn{
+    color: gold;
+    background-color: green;
+    text-decoration: none;
+}
+#btn:hover{
+    background-color: gold;
+    color: green;
+}
+#quote{
+    color: gold;
+}
