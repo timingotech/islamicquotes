@@ -35,3 +35,12 @@ h1{
 #quote{
     color: gold;
 }
+@media only screen and (max-width: 767px) {
+    #btn{
+        padding: 10px 10px 10px 10px;
+        font-size: 20px;
+    }
+    h3{
+        margin-left: 100px;
+    }
+}
